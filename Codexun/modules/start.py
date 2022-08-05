@@ -26,13 +26,7 @@ Use the given buttons for more info📍""",
             [
                 [
                     InlineKeyboardButton(
-                        "Commands", callback_data="cbcmnds"),
-                    InlineKeyboardButton(
-                        "About", callback_data="cbabout")
-                ],
-                [
-                    InlineKeyboardButton(
-                        "Basic Guide", callback_data="cbguide")
+                        "Commands", callback_data="cbcmnds"),    
                 ],
                 [
                     InlineKeyboardButton(
